@@ -6,4 +6,4 @@
 
 ## troisième chapitre
 
-     Bonjour bis
+     Bonjour bis  /ter *
