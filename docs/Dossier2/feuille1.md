@@ -1,4 +1,5 @@
-*à compléter*
 # premier chapitre
-# deuxieme chapitre
-# troisieme chapitre
+
+# deuxième chapitre
+
+# troisième chapitre
