@@ -8,5 +8,8 @@
     - !;ùmùm;ùm
     - JLLl
     - nlk,l
+    -nnlk
+    -nlk,l,
+    kplkm;+
 
     
